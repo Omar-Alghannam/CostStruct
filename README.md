@@ -99,25 +99,6 @@ src/
 
 ---
 
-## 🚢 Deploy to Vercel
-
-1. Push to GitHub:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit — CostStruct"
-   git remote add origin <your-github-repo-url>
-   git push -u origin main
-   ```
-
-2. Go to [Vercel](https://vercel.com) → Import your repo
-
-3. Add environment variables in Vercel dashboard (same as `.env`)
-
-4. Deploy! The `vercel.json` is already configured for SPA routing.
-
----
-
 ## 🛠 Tech Stack
 
 | Tech | Purpose |
@@ -137,6 +118,4 @@ src/
 
 ---
 
-## 📝 License
 
-MIT — Built with ❤️ for construction professionals.
