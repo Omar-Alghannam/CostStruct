@@ -1,4 +1,4 @@
-# 🏗️ CostStruct — Construction Expense Tracker
+#  CostStruct — Construction Expense Tracker
 
 A professional, bilingual (English/Arabic) construction expense tracker built with **React + Vite**, **Firebase**, and **AMCharts 5**.
 
